@@ -1,0 +1,21 @@
+.task{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin: 5px;
+    align-items: center;
+}
+.formTodo{
+    display: flex;
+    margin-left: 37px;
+    gap: 10px;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.todoInput{
+    width: 420px;
+    height: 50px;
+}
